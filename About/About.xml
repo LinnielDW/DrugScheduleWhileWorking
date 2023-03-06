@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>DrugScheduleWhileWorking</name>
+    <author>Arquebus</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>Arquebus.DrugScheduleWhileWorking</packageId>
+    <description>Makes a pawn take their scheduled drugs while assigned to working or meditation.</description>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+    </loadAfter>
+</ModMetaData>
+
+
