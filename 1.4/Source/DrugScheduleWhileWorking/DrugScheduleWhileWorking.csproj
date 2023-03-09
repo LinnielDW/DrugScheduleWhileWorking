@@ -50,7 +50,9 @@
     <PackageReference Include="Lib.Harmony" Version="2.2.2" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DrugScheduleUtils.cs" />
     <Compile Include="DrugScheduleWhileWorking.cs" />
+    <Compile Include="DrugScheduleWhileWorkingSettings.cs" />
     <Compile Include="Patches\JobGiver_TakeDrugsForDrugPolicy_GetPriority_Patch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
