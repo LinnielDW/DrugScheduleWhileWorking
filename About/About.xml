@@ -10,7 +10,7 @@
         <li>1.4</li>
     </supportedVersions>
     <packageId>Arquebus.DrugScheduleWhileWorking</packageId>
-    <description>Makes a pawn take their scheduled drugs while assigned to working or meditation. Allowed drugs configurable in mod settings.</description>
+    <description>Makes a pawn take their scheduled drugs even while not assigned to recreation. Allowed drugs configurable in mod settings.</description>
     <loadAfter>
         <li>Ludeon.RimWorld</li>
     </loadAfter>
